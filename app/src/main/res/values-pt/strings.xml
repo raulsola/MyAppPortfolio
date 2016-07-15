@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu aplicativo Portfólio</string>
+    <string name="appmaterial">FAÇA O MATERIAL DE SEU APLICATIVO</string>
+    <string name="movies">FILMES POPULARES</string>
+    <string name="title">Meu Aplicativos Nanodegree</string>
+    <string name="ubiquitous">SEJA ONIPRESENTE</string>
+    <string name="capstone">CAPSTONE</string>
+    <string name="stock">STOCK HAWK</string>
+    <string name="build">FAÇA-O MAIOR</string>
+    <string name="toast_text">Este botão abrirá</string>
+</resources>
