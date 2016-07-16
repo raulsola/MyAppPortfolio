@@ -14,4 +14,11 @@
         <item name="android:colorButtonNormal">@color/button</item>
     </style>
 
+    <style name="MyCustomButtonStyle">
+        <item name="android:layout_width">@dimen/btn_vertical</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:onClick">showMessage</item>
+    </style>
+
 </resources>
